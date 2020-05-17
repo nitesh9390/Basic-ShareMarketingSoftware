@@ -1,4 +1,4 @@
-# Basic-ShareMarketingSoftware# Basic-ShareMarketingSoftware
+# Basic-ShareMarketingSoftware
 This project title “Share marketing software” is prepared in JAVA and SQL Language and written in “Netbeans” IDE editter.
 In this project we can do- 
 - Create new user id. 
